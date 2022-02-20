@@ -35,7 +35,7 @@ namespace cSharp_mySQLconnection
             BindingSource bindToSource = new BindingSource();
             bindToSource.DataSource = tableOfData;
             dataGridView1.DataSource = bindToSource;
-            MessageBox.Show(Convert.ToString(dataGridView1.CurrentCell.Value));
+            // MessageBox.Show(Convert.ToString(dataGridView1.CurrentCell.Value));
             string movie_id = dataGridView1.SelectedCells[0].Value.ToString();
             textBox1.Text = movie_id;
             DataGridViewCell movie_title = dataGridView1.SelectedCells[0];
