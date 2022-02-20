@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1b07b91c-35d0-4555-9061-a79b9997772c": {
+      "ProjectGuid": "1b07b91c-35d0-4555-9061-a79b9997772c",
+      "DisplayName": "cSharp_mySQLconnection",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
